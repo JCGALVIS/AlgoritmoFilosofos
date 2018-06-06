@@ -1,0 +1,5 @@
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\ClassFilosofos\bin\Debug\ClassFilosofos.dll
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\ClassFilosofos\bin\Debug\ClassFilosofos.pdb
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\ClassFilosofos\obj\Debug\ClassFilosofos.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\ClassFilosofos\obj\Debug\ClassFilosofos.dll
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\ClassFilosofos\obj\Debug\ClassFilosofos.pdb
