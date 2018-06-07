@@ -3,11 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassFilosofos", "ClassFilosofos\ClassFilosofos.csproj", "{6BB69E17-F931-4C52-AEA4-71149420A892}"
-EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AppFilosofos", "AppFilosofos\", "{1DFB1D13-5CFF-4AD8-8785-C2587B1842A4}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{d35e1263-45bb-431a-a147-d2a2ae3d23a1}|ClaseFilosofos.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_53970"
 		Debug.AspNetCompiler.PhysicalPath = "AppFilosofos\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53970\"
@@ -26,20 +25,22 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AppFilosofos", "AppFilosofo
 		SlnRelativePath = "AppFilosofos\"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseFilosofos", "ClaseFilosofos\ClaseFilosofos.csproj", "{D35E1263-45BB-431A-A147-D2A2AE3D23A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6BB69E17-F931-4C52-AEA4-71149420A892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6BB69E17-F931-4C52-AEA4-71149420A892}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6BB69E17-F931-4C52-AEA4-71149420A892}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6BB69E17-F931-4C52-AEA4-71149420A892}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1DFB1D13-5CFF-4AD8-8785-C2587B1842A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1DFB1D13-5CFF-4AD8-8785-C2587B1842A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DFB1D13-5CFF-4AD8-8785-C2587B1842A4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{1DFB1D13-5CFF-4AD8-8785-C2587B1842A4}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D35E1263-45BB-431A-A147-D2A2AE3D23A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35E1263-45BB-431A-A147-D2A2AE3D23A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35E1263-45BB-431A-A147-D2A2AE3D23A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35E1263-45BB-431A-A147-D2A2AE3D23A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

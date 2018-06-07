@@ -1,14 +1,14 @@
 ﻿using System;
-using System.Configuration;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Threading;
+using System.Threading.Tasks;
 
-namespace ClassFilosofos
+namespace ClaseFilosofos
 {
-    public class ClassTenedores
+    public class Tenedores
     {
         bool[] cantidadDeTenedores = new bool[int.Parse(ConfigurationManager.AppSettings["NumeroDeFilosofos"])];
 
