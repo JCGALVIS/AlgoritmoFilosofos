@@ -27,6 +27,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AppFilosofos", "AppFilosofo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseFilosofos", "ClaseFilosofos\ClaseFilosofos.csproj", "{D35E1263-45BB-431A-A147-D2A2AE3D23A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwfFilosofos", "AwfFilosofos\AwfFilosofos.csproj", "{84D502FD-8815-4F14-A67A-4DEF62FE7C1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{D35E1263-45BB-431A-A147-D2A2AE3D23A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D35E1263-45BB-431A-A147-D2A2AE3D23A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D35E1263-45BB-431A-A147-D2A2AE3D23A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D502FD-8815-4F14-A67A-4DEF62FE7C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D502FD-8815-4F14-A67A-4DEF62FE7C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D502FD-8815-4F14-A67A-4DEF62FE7C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D502FD-8815-4F14-A67A-4DEF62FE7C1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

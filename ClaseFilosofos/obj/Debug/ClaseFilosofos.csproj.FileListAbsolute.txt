@@ -2,3 +2,4 @@ C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\ClaseFilosofos\bin\De
 C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\ClaseFilosofos\bin\Debug\ClaseFilosofos.pdb
 C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\ClaseFilosofos\obj\Debug\ClaseFilosofos.dll
 C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\ClaseFilosofos\obj\Debug\ClaseFilosofos.pdb
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\ClaseFilosofos\obj\Debug\ClaseFilosofos.csprojResolveAssemblyReference.cache

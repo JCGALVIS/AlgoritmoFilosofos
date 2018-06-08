@@ -1,0 +1,11 @@
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\bin\Debug\AwfFilosofos.exe.config
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\obj\Debug\AwfFilosofos.csprojResolveAssemblyReference.cache
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\obj\Debug\AwfFilosofos.Filosofos.resources
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\obj\Debug\AwfFilosofos.Properties.Resources.resources
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\obj\Debug\AwfFilosofos.csproj.GenerateResource.Cache
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\bin\Debug\AwfFilosofos.exe
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\bin\Debug\AwfFilosofos.pdb
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\obj\Debug\AwfFilosofos.exe
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\obj\Debug\AwfFilosofos.pdb
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\bin\Debug\ClaseFilosofos.dll
+C:\Users\carlos.galvis\Documents\D\galvis\EAN\SO\Filosofos\AwfFilosofos\bin\Debug\ClaseFilosofos.pdb

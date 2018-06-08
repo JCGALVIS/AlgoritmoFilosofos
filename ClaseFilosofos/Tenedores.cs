@@ -21,7 +21,7 @@ namespace ClaseFilosofos
             {
                 //Espera a que los 2 tenedores estén libres (ambos igual a false)
                 while (cantidadDeTenedores[tenedorIzquierda] || cantidadDeTenedores[tenedorDerecha])
-                    Monitor.Wait(this);
+                  Monitor.Wait(this);
 
                 //Asigna true para especificar que el recurso está ocupado
                 cantidadDeTenedores[tenedorIzquierda] = true;
